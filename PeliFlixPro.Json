@@ -1,0 +1,109 @@
+{
+  "hero": {
+    "id": "hero1",
+    "title": "Solo Leveling",
+    "info": "2024 • Acción • HD",
+    "description": "Sung Jinwoo comienza como el cazador más débil y obtiene un misterioso poder que cambiará completamente su destino.",
+    "image": "https://image.tmdb.org/t/p/w500/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+    "html": "hero1.html"
+  },
+
+  "tendencias": [
+    {
+      "id": "trend1",
+      "title": "Solo Leveling",
+      "image": "https://image.tmdb.org/t/p/w500/geCRueV3ElhRTr0xtJuEWJt6dJ1.jpg",
+      "html": "trend1.html"
+    },
+    {
+      "id": "trend2",
+      "title": "SpiderMan un Nuevo Dia",
+      "image": "https://www.image2url.com/r2/default/images/1788680176160-55a29efd-4019-4032-9366-cadd68d64fb1.jpg",
+      "html": "trend2.html"
+    },
+    {
+      "id": "trend3",
+      "title": "Moana live Action",
+      "image": "https://www.image2url.com/r2/default/images/1788682143213-4fbb93d0-61e2-4a38-822e-9731179bc2d5.jpg",
+      "html": "trend3.html"
+    },
+    {
+      "id": "trend4",
+      "title": "Ataque a los titanes",
+      "image": "https://www.image2url.com/r2/default/images/1788681711943-13542828-bd9a-4786-9996-6caf69c52be3.jpg",
+      "html": "trend4.html"
+    },
+    {
+      "id": "trend5",
+      "title": "Mi adorable demonio",
+      "image": "https://www.image2url.com/r2/default/images/1788681448653-60cadb18-1e17-4ece-a65c-fc893efc5392.jpg",
+      "html": "trend5.html"
+    }
+  ],
+
+  "populares": [
+    {
+      "id": "popular1",
+      "title": "Dragon Ball Super: Broly",
+      "image": "https://image.tmdb.org/t/p/w500/fMMrl8fD9gRCFJvsx0SuFh7uH9G.jpg",
+      "html": "popular1.html"
+    },
+    {
+      "id": "popular2",
+      "title": "Spider-Man: No Way Home",
+      "image": "https://image.tmdb.org/t/p/w500/14QbnygCuTO0vl7CAFmPf1fgZfV.jpg",
+      "html": "popular2.html"
+    },
+    {
+      "id": "popular3",
+      "title": "Avengers: Endgame",
+      "image": "https://image.tmdb.org/t/p/w500/ulzhLuWrPK07P1YkdWQLZnQh1JL.jpg",
+      "html": "popular3.html"
+    },
+    {
+      "id": "popular4",
+      "title": "Avengers: Infinity War",
+      "image": "https://image.tmdb.org/t/p/w500/7WsyChQLEftFiDOVTGkv3hFpyyt.jpg",
+      "html": "popular4.html"
+    },
+    {
+      "id": "popular5",
+      "title": "Guardians of the Galaxy Vol. 3",
+      "image": "https://image.tmdb.org/t/p/w500/r2J02Z2OpNTctfOSN1Ydgii51I3.jpg",
+      "html": "popular5.html"
+    }
+  ],
+
+  "series": [
+    {
+      "id": "series1",
+      "title": "The Last of Us",
+      "image": "https://image.tmdb.org/t/p/w500/uKvVjHNqB5VmOrdxqAt2F7J78ED.jpg",
+      "html": "series1.html"
+    },
+    {
+      "id": "series2",
+      "title": "Stranger Things",
+      "image": "https://image.tmdb.org/t/p/w500/x2LSRK2Cm7MZhjluni1msVJ3wDF.jpg",
+      "html": "series2.html"
+    },
+    {
+      "id": "series3",
+      "title": "The Mandalorian",
+      "image": "https://image.tmdb.org/t/p/w500/eU1i6eHXlz4rQYms9gwZVmFjM4s.jpg",
+      "html": "series3.html"
+    },
+    {
+      "id": "series4",
+      "title": "Loki",
+      "image": "https://image.tmdb.org/t/p/w500/voHUmluYmKyleFkTu3lOXQG702u.jpg",
+      "html": "series4.html"
+    },
+    {
+      "id": "series5",
+      "title": "One Piece",
+      "image": "https://image.tmdb.org/t/p/w500/cMD9Ygz11zjJzAovURpO75Qg7rT.jpg",
+      "html": "series5.html"
+    }
+  ]
+}
